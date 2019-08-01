@@ -1,11 +1,11 @@
 <template>
   <div class="navbar">
-    <nav class="nav-extended indigo darken-1">
+    <nav class="nav-extended green darken-3">
       <div class="nav-content">
         <router-link to="">
-          <span class="nav-title">Monkey Smoothies</span>
+          <span class="nav-title amber-text text-lighten-2">Monkey Smoothies</span>
         </router-link>
-        <a href="" class="btn-floating btn-large halfway-fab pink">
+        <a href="" class="btn-floating btn-large halfway-fab purple accent-3">
           <router-link to="">
             <i class="material-icons">add</i>
           </router-link>
