@@ -5,7 +5,7 @@
         <router-link :to="{name: 'Index'}">
           <span class="nav-title amber-text text-lighten-2">Monkey Smoothies</span>
         </router-link>
-        <a href="" class="btn-floating btn-large halfway-fab purple accent-3">
+        <a href="" class="btn-floating btn-large halfway-fab purple accent-4">
           <router-link :to="{name:'AddSmoothie'}">
             <i class="material-icons">add</i>
           </router-link>
